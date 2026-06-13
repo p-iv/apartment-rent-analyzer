@@ -32,5 +32,4 @@ An automated, real-time web scraping and data analysis system designed to monito
 5. **Sleep Sequence:** The process safely closes database connections and enters sleep cycle.
 
 ---
-(https://github.com/YOUR_GITHUB_USERNAME/apartment-offer-alert.git)
-cd apartment-offer-alert
+
